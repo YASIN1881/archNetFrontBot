@@ -1,1 +1,0 @@
-export default function t({number:t}){let e=t.toString(),r=e.replace(/\B(?=(\d{3})+(?!\d))/g,"."),l=r.replace(/\d/g,t=>"۰۱۲۳۴۵۶۷۸۹"[t]);return<p className="font-VazirRegular text-lg"dir="rtl">{l}  تومان</p>};
